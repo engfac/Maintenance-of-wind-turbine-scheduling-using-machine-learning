@@ -15,28 +15,28 @@
 **/client_secret.json
 
 # Dataset
-Arima/D1_data
-Arima/H1_data
-Arima/sample
+Arima/D1_data.csv
+Arima/H1_data.csv
+Arima/sample.csv
 
-GradientBoost/D_data
-GradientBoost/H_data
+GradientBoost/D_data.csv
+GradientBoost/H_data.csv
 
-KNN/D_data
-KNN/H_data
+KNN/D_data.csv
+KNN/H_data.csv
 
-LSTM/Daily_data
-LSTM/Hourly
+LSTM/Daily_data.csv
+LSTM/Hourly.csv
 
-MLP/D_data
-MLP/H_data
+MLP/D_data.csv
+MLP/H_data.csv
 
-RNN/D_data
-RNN/H_data
+RNN/D_data.csv
+RNN/H_data.csv
 
-SVR/D_data
-SVR/H_data
+SVR/D_data.csv
+SVR/H_data.csv
 
-XGBoost/D_data
-XGBoost/H_data
+XGBoost/D_data.csv
+XGBoost/H_data.csv
 
